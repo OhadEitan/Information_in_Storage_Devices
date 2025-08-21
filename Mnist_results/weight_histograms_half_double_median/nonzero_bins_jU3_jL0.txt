@@ -1,0 +1,9 @@
+Non-zero bins for j_upper=3, j_lower=0:
+-104
+-72
+-40
+-8
+24
+56
+88
+120
