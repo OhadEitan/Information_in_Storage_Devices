@@ -1,9 +1,0 @@
-Non-zero bins for j_upper=2, j_lower=1:
--92
--84
--28
--20
-36
-44
-100
-108
